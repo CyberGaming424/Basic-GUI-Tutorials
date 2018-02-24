@@ -10,11 +10,11 @@ public class GeneralGUIBuilding {
 		SwingUtilities.invokeLater(new Runnable() {
 			@Override
 			public void run() {
-				// ActionListeners listener = new ActionListeners();
+				//ActionListeners listener = new ActionListeners();
 				// BasicJFrame basic = new BasicJFrame()
 				// TryTextfieldInput text = new TryTextfieldInput();
 				//TryTextArea textArea = new TryTextArea();
-				BorderLayout layout = new BorderLayout();
+				//BorderLayout layout = new BorderLayout();
 			}
 
 		});
