@@ -14,7 +14,7 @@ public class GeneralGUIBuilding {
 				// BasicJFrame basic = new BasicJFrame()
 				// TryTextfieldInput text = new TryTextfieldInput();
 				//TryTextArea textArea = new TryTextArea();
-				//BorderLayout layout = new BorderLayout();
+				TryBorderLayout layout = new TryBorderLayout();
 			}
 
 		});
